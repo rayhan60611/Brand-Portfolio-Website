@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cef6c46f-c0bb-4228-8063-f406cb2b1b84" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1Y3ORg3XXWsZ5Tn7kXb2nTeK9hK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\skf-bp" />
+      <recent name="C:\xampp\htdocs\skf-bp\images" />
+      <recent name="C:\xampp\htdocs\skf-bp\js" />
+      <recent name="C:\xampp\htdocs\CRUD" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" nameIsGenerated="true" start_url="http://localhost/crud/userlist.php">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cef6c46f-c0bb-4228-8063-f406cb2b1b84" name="Default Changelist" comment="" />
+      <created>1582167806135</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582167806135</updated>
+      <workItem from="1582167811853" duration="19578000" />
+      <workItem from="1582344585976" duration="22566000" />
+      <workItem from="1582432391252" duration="1245000" />
+      <workItem from="1582518065080" duration="14748000" />
+      <workItem from="1582614850560" duration="18960000" />
+      <workItem from="1582691554895" duration="23611000" />
+      <workItem from="1582794787918" duration="1361000" />
+      <workItem from="1582959887851" duration="1194000" />
+      <workItem from="1583042640972" duration="6093000" />
+      <workItem from="1583134429553" duration="3262000" />
+      <workItem from="1583147472490" duration="1674000" />
+      <workItem from="1583210297524" duration="5712000" />
+      <workItem from="1583217370732" duration="5111000" />
+      <workItem from="1583296301232" duration="9098000" />
+      <workItem from="1583562207895" duration="15383000" />
+      <workItem from="1583641398129" duration="16092000" />
+      <workItem from="1583668322978" duration="3403000" />
+      <workItem from="1583725858043" duration="9142000" />
+      <workItem from="1583754226462" duration="529000" />
+      <workItem from="1583812541334" duration="16655000" />
+      <workItem from="1583900732139" duration="15350000" />
+      <workItem from="1583986529408" duration="12631000" />
+      <workItem from="1584162205993" duration="17385000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="371" y="283" key="#Servers" timestamp="1582168500538">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="371" y="283" key="#Servers/0.0.1920.1040@0.0.1920.1040" timestamp="1582168500538" />
+    <state x="686" y="247" key="#Unnamed" timestamp="1582168522341">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="686" y="247" key="#Unnamed/0.0.1920.1040@0.0.1920.1040" timestamp="1582168522341" />
+    <state x="709" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582168515638">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="709" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582168515638" />
+    <state x="687" y="329" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584162602144">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="687" y="329" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1584162602144" />
+    <state x="210" y="273" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584179037807">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="210" y="273" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584179037807" />
+    <state x="740" y="277" key="FileChooserDialogImpl" timestamp="1583748983545">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583748983545" />
+    <state x="794" y="451" key="NewPhpFileDialog" timestamp="1584163205563">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="451" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584163205563" />
+    <state x="760" y="209" key="SettingsEditor" timestamp="1582168459622">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="760" y="209" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582168459622" />
+    <state x="527" y="125" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1582357539144">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="527" y="125" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1582357539144" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1583233411375">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1583233411375" />
+  </component>
+</project>
