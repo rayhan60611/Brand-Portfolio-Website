@@ -9,6 +9,8 @@
 - [x] JQuery
 - [x] HTML
 - [x] CSS
+- [x] Mysql
+
 
 
 ## This is the Live Website Link:
